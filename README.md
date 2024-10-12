@@ -1,2 +1,4 @@
 # paperReadings
-
+- Diffusion
+- Transformer
+- Agent

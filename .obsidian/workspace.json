@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be4adc75a733435f",
+        "id": "f6fb5fc91cc1d33c",
         "type": "tabs",
         "children": [
           {
-            "id": "1aceb76f900a896d",
+            "id": "383e4856272f6c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diffusion/Score based.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Diffusion/Score based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Diffusion/Score based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Diffusion/Score based.md"
               }
             }
           },
@@ -134,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "78a1ea81fc7bfb9f",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
               "state": {}
             }
           }
@@ -155,9 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aceb76f900a896d",
+  "active": "2030855b12596f79",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Diffusion/Score based.md",
     "README.md",
     "Agent",
     "Transformer",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59ae73dca3cbed53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毛概.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffusion/Score based.md",
+                "file": "毛概.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffusion/Score based.md",
+                "file": "毛概.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffusion/Score based.md"
+                "file": "毛概.md"
               }
             }
           },
@@ -163,9 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2030855b12596f79",
+  "active": "59ae73dca3cbed53",
   "lastOpenFiles": [
     "Diffusion/Score based.md",
+    "毛概.md",
     "README.md",
     "Agent",
     "Transformer",

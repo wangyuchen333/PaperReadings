@@ -4,3 +4,4 @@ too much formula
 [Miika Aittala: Elucidating the Design Space of Diffusion-Based Generative Models](https://www.youtube.com/watch?v=T0Qxzf0eaio&t=1036s)
 noise schedule vs step length: two ways to get a refine image
 [通过估计数据分布的梯度进行生成建模 |杨松 --- Generative Modeling by Estimating Gradients of the Data Distribution | Yang Song](https://yang-song.net/blog/2021/score/)
+the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE.

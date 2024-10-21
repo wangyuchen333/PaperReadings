@@ -2,3 +2,4 @@
 reparameter conditioned unconditioned
 too much formula
 [Miika Aittala: Elucidating the Design Space of Diffusion-Based Generative Models](https://www.youtube.com/watch?v=T0Qxzf0eaio&t=1036s)
+noise schedule vs step length: two ways to get a refine image

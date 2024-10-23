@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffusion/basic knowledge.md",
+                "file": "Diffusion/sde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basic knowledge"
+              "title": "sde"
             }
           },
           {
@@ -197,14 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cc3124e054af79a",
+  "active": "a50ed9f1528bbd06",
   "lastOpenFiles": [
-    "sde.md",
+    "README.md",
     "Diffusion/basic knowledge.md",
+    "Diffusion/sde.md",
     "未命名",
     "conflict-files-obsidian-git.md",
     "Diffusion/Score based.md",
-    "README.md",
     "毛概.md",
     "Agent",
     "Transformer",

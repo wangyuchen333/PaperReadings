@@ -7,3 +7,4 @@ the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and t
 
 [Miika Aittala: Elucidating the Design Space of Diffusion-Based Generative Models](https://www.youtube.com/watch?v=T0Qxzf0eaio&t=1036s)
 noise schedule vs step length: two ways to get a refine image
+sdeCODE dffusion parrallell

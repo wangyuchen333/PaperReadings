@@ -11,3 +11,5 @@ sdeCODE dffusion parrallell
 
 [Diffusion and Score-Based Generative Models - YouTube](https://www.youtube.com/watch?v=wMmqCMwuM2Q)
 Intuition of Fisher divergence to Score matching
+
+[Noise schedules considered harmful – Sander Dieleman](https://sander.ai/2024/06/14/noise-schedules.html)

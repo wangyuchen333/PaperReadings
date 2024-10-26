@@ -11,10 +11,14 @@
             "id": "d871d04e2f7633b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Diffusion/basic knowledge.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "basic knowledge"
             }
           },
           {
@@ -45,8 +49,7 @@
               "title": "sde"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +211,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7abab9f13d483a66",
   "active": "d871d04e2f7633b1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",

@@ -1,4 +1,4 @@
-# My recent readings of paper are here: [Paper Readings](https://github.com/wangyuchen333/paperReadings).
+# My recent readings of paper are here.
 - Diffusion
-- Transformer
 - Agent
+Struggling with dealing confilts...

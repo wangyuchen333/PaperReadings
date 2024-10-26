@@ -10,4 +10,4 @@ noise schedule vs step length: two ways to get a refine image
 sdeCODE dffusion parrallell
 
 [Diffusion and Score-Based Generative Models - YouTube](https://www.youtube.com/watch?v=wMmqCMwuM2Q)
-Intuition of Fisher divergence
+Intuition of Fisher divergence to Score matching

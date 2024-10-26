@@ -35,8 +35,7 @@
               "title": "MoG"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7abab9f13d483a66",
+  "active": "d871d04e2f7633b1",
   "lastOpenFiles": [
+    "Diffusion/MoG.md",
     "Diffusion/Blogs and Videos.md",
     "conflict-files-obsidian-git.md",
-    "Diffusion/MoG.md",
     "Diffusion/sde.md",
     "README.md",
     "未命名",

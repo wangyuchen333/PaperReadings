@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Survey.md",
+                "file": "Diffusion/Blogs and Videos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Survey"
+              "title": "Blogs and Videos"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "1ffdc3587297a9e7",
   "lastOpenFiles": [
+    "Diffusion/Survey.md",
     "Diffusion/Blogs and Videos.md",
-    "Survey.md",
     "Diffusion/MoG.md",
     "conflict-files-obsidian-git.md",
     "Diffusion/sde.md",

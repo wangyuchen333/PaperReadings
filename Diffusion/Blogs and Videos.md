@@ -17,3 +17,4 @@ Intuition of Fisher divergence to Score matching
 [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼 - 科学空间|Scientific Spaces](https://kexue.fm/archives/9119)
 拆楼，重参数化，一步得出$x_t$
 建楼，一步步的预测噪声
+DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来得到一个样本输出；朗之万采样则是从任意一个点出发，反复迭代无限步，理论上这个迭代无限步的过程中，就把所有数据样本都被生成过了。所以两者除了形式相似外，实质上是两个截然不同的模型。

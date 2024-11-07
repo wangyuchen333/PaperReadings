@@ -36,4 +36,4 @@ DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来�
  ![[Pasted image 20241107113016.png]]
  ![[Pasted image 20241107113101.png]]
  ![[Pasted image 20241107113124.png]]
- 
+ 在训练过程中，每个训练样本都会随机抽取一个时间步长 $x_0$ 。大多数方法采用均匀抽样时间步长（包括 DDPM），但有些方法，如 EDM [2](https://sander.ai/2024/06/14/noise-schedules.html#fn:elucidating) 和 Stable Diffusion 3 [5](https://sander.ai/2024/06/14/noise-schedules.html#fn:sd3) ，则选择不同的分布。这也就意味着，这也会影响噪声水平的平衡，因为某些水平将看到比其他水平更多的训练样本。

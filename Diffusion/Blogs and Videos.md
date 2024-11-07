@@ -42,4 +42,5 @@ DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来�
  ![[Pasted image 20241107114714.png]]
  You may have recognised this as the key idea behind [**importance sampling**](https://en.wikipedia.org/wiki/Importance_sampling), because that’s exactly what this is.
  ![[Pasted image 20241107114947.png]]
+ ![[Pasted image 20241107115421.png]]
  

@@ -23,3 +23,5 @@ DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来�
 [生成扩散模型漫谈（五）：一般框架之SDE篇 - 科学空间|Scientific Spaces](https://kexue.fm/archives/9209)
 在连续时间的SDE视角之下，不同的TT是SDE不同的离散化程度的体现，它们会自动地导致相似的结果，我们不需要事先指定TT，而是根据实际情况下的精确度来取适当的TT进行数值计算。
 为什么随机项的阶要比确定项的阶要高？因为临近随机数的抵消
+[噪音时间表被认为是有害的 – Sander Dieleman --- Noise schedules considered harmful – Sander Dieleman](https://sander.ai/2024/06/14/noise-schedules.html)
+**variance-preserving**:  isn’t always true in practice (for example, image pixels scaled to [−1,1] will have a lower variance), it’s often close enough that things still work well in practice.

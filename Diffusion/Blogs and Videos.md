@@ -25,3 +25,7 @@ DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来�
 为什么随机项的阶要比确定项的阶要高？因为临近随机数的抵消
 [噪音时间表被认为是有害的 – Sander Dieleman --- Noise schedules considered harmful – Sander Dieleman](https://sander.ai/2024/06/14/noise-schedules.html)
 **variance-preserving**:  isn’t always true in practice (for example, image pixels scaled to [−1,1] will have a lower variance), it’s often close enough that things still work well in practice.
+**variance-exploding**:to grow quite large to be able to drown out all of the signal for large values of
+ **sub-VP**:这种选择应该会导致通过数据和噪声之间的 input 空间的更直的路径，这反过来又减少了达到一定质量水平所需的采样步骤数（有关使用更少步骤进行采样的更多信息，请参阅[我之前的博客文章](https://sander.ai/2024/02/28/paradox.html)）。Stable Diffusion 3 使用这种方法
+ https://sander.ai/images/some_schedules.png
+ 三个示例噪声计划的标准差（蓝色）和比例因子（橙色）：一个方差保留 （VP）、一个方差爆炸 （VE） 和一个子 VP。此外，还显示了损坏过程每个步骤的结果总标准差（绿色），假设干净信号具有单位方差。

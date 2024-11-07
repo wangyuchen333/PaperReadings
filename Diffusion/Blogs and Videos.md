@@ -45,3 +45,4 @@ DDPM的采样每次都从一个随机噪声出发，需要重复迭代TT步来�
  ![[Pasted image 20241107115421.png]]
  当结合噪声调度与均匀时间步长采样以及均匀时间步长间隔时，正如通常所做的那样，隐含的假设是特定的噪声水平对训练和采样同等重要。这通常并非如此（参见第 2 节），EDM 论文也通过分别调整噪声水平分布 $p(σ)$ 和采样间隔来支持这一点。Kingma 与 Gao [14](https://sander.ai/2024/06/14/noise-schedules.html#fn:diffusion-elbo) 将这些选择表达为以对数信噪比（logSNR）为参数的加权函数，展示了它们最终如何变得截然不同（参见他们论文中的图 2）。
  这也使我们能够将各种扩散和扩散相关模型（例如，流匹配 [3](https://sander.ai/2024/06/14/noise-schedules.html#fn:flowmatching) / 矫正流 [4](https://sander.ai/2024/06/14/noise-schedules.html#fn:rectifiedflow) ，通过直接迭代进行反演 [15](https://sander.ai/2024/06/14/noise-schedules.html#fn:indi) ，……）视为同一想法的不同变体，这些变体具有不同的噪声水平权重、间距和缩放选择。我强烈建议您阅读 Kingma 和 Gao 的“理解扩散目标”论文的附录 D，其中对这些关系进行了很好的概述。在 EDM 论文的第 2 节和附录 C 中，Karras 等人进行了类似的练习，这也非常值得一读。前者将所有内容都表达为对数信噪比 λλ ，而后者使用标准差 σσ 。
+5. Adaptive weighting mechanism is not qui

@@ -6,14 +6,7 @@ find out about new ap to chat
 
 
 SoP （以UCLA ECE PhD为案例）：
-Subject: Request for PhD Position in Prof. A's Lab
-Dear Prof. A,
-I hope this email finds you well. I am writing to express my interest in pursuing a PhD position in your lab at [University Name]. I am a recent graduate from [Undergraduate University] with a degree in [Field of Study]. I was impressed by your research in [Field of Study] and I am eager to contribute to your ongoing efforts in this area.
-As an undergraduate, I had the opportunity to conduct three research projects that align well with the work being done in your lab. [Brief description of the three research projects]. I believe that my skills and experience make me a good fit for your lab and I am confident that I can make meaningful contributions to your research program.
-I would be honored to be considered for a PhD position in your lab and would welcome the opportunity to discuss my qualifications further. I am available for an interview at your convenience and would be happy to provide any additional information or materials that you may require.
-Thank you for your time and consideration. I look forward to hearing from you soon.
-Best regards, ..
-[Your Name]
+
 
 
 Dear Admissions Committee,
@@ -24,43 +17,15 @@ In conclusion, I cannot emphasize enough how highly I recommend xxx for admissio
 Sincerely,. Χ
 [Your Name]
 
-我这次SOP和推荐信都是用CHATGPT写的，我的流程是
-1、先输入自己的相关信息，让他帮我生成一篇基础框架
-2、补充我的信息，让他完善一下内容
-3、自己用中文重写一些我觉得想要改的地方，让CHATGPT帮忙翻译
 4、翻译后让他润色，比如告诉他“用更美国人书面的口吻改写这段话”，“把这段话改写的更严肃礼貌一些”
-5、把改写过后的段落COPY回去
-整体行文逻辑文笔特别流畅，用词也读起来很舒服，根本不需要再找什么native speaker帮忙润色了
-不过三封推荐信确实会存在一些逻辑措辞相似的问题，多花点时间改改就好了，问题不大
-整体写完后，甚至还可以让他帮忙看一下，提一些他觉得的意见
 
 
 
-申请与辅导经验
-.--
-作为一名双非本科，标化一般的申请者，我通过DIY的方式，获得了CMU MSCV的录取。在硕士期间，我还兼职辅导过十几位同学的文书，他们中的很多人也上了名校，为此，我深感欣慰。回顾自己撰写文书和辅导他人的经历，尽管远称不上完美，但我对文书写作的理解应该是准确的，方法也应该是实用的。
-写这篇帖子的原因.google  и
-随着理工科项目，尤其是CS/DS的DDL临近，很多同学向我咨询文书写作的问题。不少同学抱怨留学机构的文书模板化，千篇一律，缺乏新意，像GPT生成的一样，而自己DIY，又不知道怎么写好文书，十分苦恼。我觉得，与其逐一回答微信消息和语音，不如写一篇更全面的帖子，既能节省我的时间，也能帮助到更多同样在文书写作上感到焦虑的同学。. check 1point3acres for more.
-声明与后续内容
-本文部分内容来源于我在2021年底写的微信推文《美硕理工科SOP/PS指南》。另外，在写完这篇文章后，我还计划讲讲美博理工科文书写作（网络上很少相关的攻略）。敬请期待。. Waral dи,
-文章概览
-在这篇文章里，我会先讲文书概述和文书重要性，接着讲文书要点，最后讲文书框架。
-文书概述
-文书，简单来说，就是写给男/女神校的情书。你需要在文书里阐述，为什么你要选TA，以及为什么TA要选你。
-文书重要性
-文书在申请材料的占比为15%-25%（问过某名校负责招生审核材料的人）。文书的作用更多是锦上添花，而非雪中送炭。在顶尖项目的申请中，申请者的综合素质普遍相近，因此，文书成为筛选申请者的机关键因素。而在普通项目的申请中，文书则为三围不高或者经历相对普通的同学提供了一个展现自身特质的机会。
-文书要点. Χ
-. ----
-..
-孙子兵法说，“知已知彼，百战不殆”。构思文书之前，我们要先思考，招生官想在文书中看到什么？一般来说，招生官想在文书里看到的，是学术基础，职业潜力，科研能力，个人品质，以及学校契合度。我来一个个讲。. Waral dи,
-学术基础：名校录取一个申请者的最低要求是：完成课业+按时毕业。以申一流CS硕士为例，如果申请者本科没有1年+的编程经历，即使被录取，也跟不上课程进度，导致延毕甚至退学，从而影响项目的学术声誉。因此，院校会选择直接拒绝这类申请者。从这个例子可以看出，在文书中突出良好的学术基础至关重要。
-职业潜力：美国大学的硕士大部分是就业导向的。如果一个项目的毕业生都能找到高薪工作，这个项目的声誉就能随之提升，吸引更好优质生源。反之，就业表现差的项目不仅会损害学校在雇主中的声誉，更会阻碍优质生源的报考。因此，在硕士申请文书中，必须突出自己职业发展的潜力。
-科研能力：这一点适用于研究导向硕士（比如CMU MSR）和竞争激烈的就业导向硕士（如CMU MSCV）。研究导向硕士的录取标准与博士类似，在标化过关的前提下，科研能力是关键，因此必须突出研究兴趣。而在就业导向硕士的申请中，科研水平能展现深入思考问题和创新解决问题的能力，这对研究生学习和未来工作都大有裨益。因此，申请竞争激烈的就业导向硕士，也有必要强调科研能力。
+研究导向硕士的录取标准与博士类似，在标化过关的前提下，科研能力是关键，因此必须突出研究兴趣。而在就业导向硕士的申请中，科研水平能展现深入思考问题和创新解决问题的能力，这对研究生学习和未来工作都大有裨益。因此，申请竞争激烈的就业导向硕士，也有必要强调科研能力。
 个人品质：在文书中展示个人品质也很重要。我建议将个人品质穿插到全文的叙述中，而不是单独成段。比如说，你的个人品质是创新+合作，那你讲科研经历的时候，就可以展示自己如何提出创新方案，并有效协调团队高效执行计划。
 学校契合度：这一点很重要，但是很多同学写文书常常忽略。设想一个追求安稳，厌恶风险的人，去申斯坦福这种鼓励创业的学校，斯坦福大概率不会录取，因为这违背了自己学校的文化。因此，在文书中，我们必须针对具体学校的具体项目，说明自己与这个项目如何匹配/契合。
-. ----
+
 文书架构
-根据上一章的文书要点，我们可以总结出下面这个框架(Outline)。. 1point3acres.com
 第一段：Introduction
 第二段：Academic & Extracurricular Activities
 第三段：Research Experiences
@@ -98,12 +63,10 @@ Sincerely,. Χ
 (Skill-2: without follow-up examples)  At XXX company, I also learned to write readable, efficient code, articulate my thoughts clearly, and communicate with others using concrete statistical evidence. . .и
 (Impact) Such professional skills are invaluable for my graduate studies and future work in the industry. 
 第五段：Optional
-. 1point 3acres
 这段可写可不写。如果文书篇幅较短，此段可以省略。若篇幅较长，我们分类讨论：科研实力强劲同学，可补充一段科研经历；实习经历丰富的同学，可增加一段实习内容。
-第六段：Future Goals. 1point3acres
+第六段：Future Goals. 
 这一段陈述未来计划。一个常见的误区是过于激进。例如，如果你只做过软件开发的基础实习，却将短期目标定为硬件研发主管，招生官一定会觉得你好高骛远，不切实际。另一个常见误区是过于保守。比如你大一就拿了ACM金牌，做了BAT的算法研究实习，硕士毕业后的目标却是找工能上岸就行。这会让招生官认为你缺乏驱动力，且未来发展前景有限。
--baidu 1point3acres
-. 1point 3acres
+
 接下来我来讲如何正确地写Future Goals。我们通常先写短期计划，比如获得硕士学位。接着是中期计划，比如进入某个领域的公司工作。最后是长期计划，通常是当企业高管或自主创业。来看下面的例子。
 (Short-term) In the near future, I plan to complete a master's degree in computer vision. During my graduate studies, I plan to investigate XXX that XXX. I am particularly interested in applying XXX. 
 (Mid-term) After graduation, I intend to work at a XXX company as a XXX engineer to advance my professional experience and further strengthen my problem-solving skills. 

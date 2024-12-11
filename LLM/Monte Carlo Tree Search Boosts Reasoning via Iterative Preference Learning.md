@@ -1,4 +1,6 @@
 https://arxiv.org/abs/2405.00451
+
+https://www.kaggle.com/code/flaussy/large-language-models-reasoning-ability
 - **Inductive Reasoning**: is a type of reasoning where a conclusion is drawn based on observations or evidence. It involves generalizing from specific instances to make a broader generalization or prediction. Inductive reasoning allows for the conclusion to be likely but not necessarily certain. It relies on the idea that if something is true for a particular set of cases, it is likely to be true for similar cases. For example, observing multiple birds with wings and concluding that all creatures with wings are likely to be birds.
     
 - **Deductive Reasoning**: is a type of reasoning where a conclusion is drawn based on the truth of the premises. It follows a logical process where the conclusion necessarily follows from the premises. If the premises are true, then the conclusion must also be true. Deductive reasoning is often used in mathematics and formal logic. An example would be the premise that all mammals have kidneys, the premise that all whales are mammals, and the conclusion that all whales have kidneys.

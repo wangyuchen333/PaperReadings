@@ -3,3 +3,7 @@
 - Agent
 
 Struggling with dealing confilts...
+
+Weird Obsdian.
+
+University students around me are familiar by playing games...

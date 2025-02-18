@@ -15,3 +15,5 @@ find my own working pattern
 be productive
 unsloth ollama
 cerebas samabnova
+GPRO and stuff
+SWE bench

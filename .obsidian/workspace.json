@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning"
             }
-          },
-          {
-            "id": "eebbe9603477bbbf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebbe9603477bbbf",
+  "active": "01d8231954186a31",
   "lastOpenFiles": [
     "Diffusion/Blogs and Videos.md",
     "DailyCommit.md",

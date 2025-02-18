@@ -8,3 +8,10 @@ find out about new ap to chat
 past few weeks were really exhausted
 I finally got through the major process of applying
 Now there are only 2 programs for me to complete due is 2.1 very far.
+
+2.18 
+long vacation long story long thinking
+find my own working pattern
+be productive
+unsloth ollama
+cerebas samabnova

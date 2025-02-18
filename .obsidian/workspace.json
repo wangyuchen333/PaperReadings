@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffusion/LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
+                "file": "DailyCommit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning"
+              "title": "DailyCommit"
             }
           }
         ]
@@ -183,16 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a50ed9f1528bbd06",
+  "active": "01d8231954186a31",
   "lastOpenFiles": [
+    "LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
     "Diffusion/Blogs and Videos.md",
     "DailyCommit.md",
-    "Diffusion/LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
     "README.md",
     "IMG/Pasted image 20241107115421.png",
     "IMG",
     "IMG/Pasted image 20241107114714.png",
-    "Diffusion/LLM",
+    "LLM",
     "Diffusion/Survey.md",
     "Statement of Purpose.md",
     "IMG/Pasted image 20241031172232.png",

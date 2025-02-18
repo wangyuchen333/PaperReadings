@@ -17,3 +17,4 @@ unsloth ollama
 cerebas samabnova
 GPRO and stuff
 SWE bench
+agentic

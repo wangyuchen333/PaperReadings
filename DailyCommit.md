@@ -22,4 +22,4 @@ vLLM
 lora
 rag
 Cot pipeline
-machine learning hardware
+machine learning hardware epoch AI

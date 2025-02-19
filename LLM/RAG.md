@@ -1,0 +1,1 @@
+在 **检索增强生成**（RAG）中，`input_ids` 和 `context_input_ids` 是不同的输入，而每个输入都有自己独立的 attention mask 来帮助模型选择有效的部分进行关注。

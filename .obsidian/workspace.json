@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Untitled.md",
+                "file": "LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "01d8231954186a31",
   "lastOpenFiles": [
+    "LLM/RAG.md",
     "DailyCommit.md",
-    "LLM/Untitled.md",
     "LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
     "Diffusion/Blogs and Videos.md",
     "README.md",

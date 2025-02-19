@@ -29,3 +29,4 @@ Zongmu Tech RUN
 SWE bench agent
 unsloth GRPO
 TinyZero
+Mini R1

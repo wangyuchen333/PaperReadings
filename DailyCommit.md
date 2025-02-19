@@ -24,3 +24,6 @@ rag
 Cot pipeline
 machine learning hardware epoch AI
 Zongmu Tech RUN
+
+2.19
+TinyZero

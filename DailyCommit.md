@@ -26,5 +26,6 @@ machine learning hardware epoch AI
 Zongmu Tech RUN
 
 2.19
-un
+SWE bench agent
+unsloth GRPO
 TinyZero

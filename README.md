@@ -1,11 +1,3 @@
-# My recent readings of paper are here.
-- Diffusion
+# My recent readings and weird thinkings are here...
+- LLM reasoning
 - Agent
-
-Struggling with dealing confilts...
-
-Weird Obsdian.
-
-University students around me are familiar by playing games...
-
-室友，社团。。。

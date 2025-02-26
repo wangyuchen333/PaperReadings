@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac15f81b47676700",
+        "id": "841ba17c2f0a0519",
         "type": "tabs",
         "children": [
           {
-            "id": "01d8231954186a31",
+            "id": "efd353d52af97f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,15 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01d8231954186a31",
+  "active": "efd353d52af97f72",
   "lastOpenFiles": [
+    "DailyCommit.md",
     "IMG/Pasted image 20241107105024.png",
     "IMG/Pasted image 20241031172232.png",
     "Diffusion/Survey.md",
     "Diffusion/Blogs and Videos.md",
     "LLM/RAG.md",
     "LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
-    "DailyCommit.md",
     "README.md",
     "IMG/Pasted image 20241107115421.png",
     "IMG",

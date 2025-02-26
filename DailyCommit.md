@@ -33,3 +33,5 @@ Mini R1
 稀疏注意力
 
 2.21 GRPO
+
+2.26 aggressive

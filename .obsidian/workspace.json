@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/RAG.md",
+                "file": "DailyCommit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "DailyCommit"
             }
           }
         ]
@@ -185,18 +185,19 @@
   },
   "active": "01d8231954186a31",
   "lastOpenFiles": [
+    "IMG/Pasted image 20241107105024.png",
+    "IMG/Pasted image 20241031172232.png",
+    "Diffusion/Survey.md",
+    "Diffusion/Blogs and Videos.md",
+    "LLM/RAG.md",
     "LLM/Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.md",
     "DailyCommit.md",
-    "LLM/RAG.md",
-    "Diffusion/Blogs and Videos.md",
     "README.md",
     "IMG/Pasted image 20241107115421.png",
     "IMG",
     "IMG/Pasted image 20241107114714.png",
     "LLM",
-    "Diffusion/Survey.md",
     "Statement of Purpose.md",
-    "IMG/Pasted image 20241031172232.png",
     "conflict-files-obsidian-git.md",
     "IMG/Pasted image 20241107114947.png",
     "IMG/Pasted image 20241107114547.png",
@@ -204,7 +205,6 @@
     "IMG/Pasted image 20241107113124.png",
     "IMG/Pasted image 20241107113101.png",
     "IMG/Pasted image 20241107113016.png",
-    "IMG/Pasted image 20241107105024.png",
     "Diffusion/MoG.md",
     "Diffusion/basic knowledge.md",
     "未命名",

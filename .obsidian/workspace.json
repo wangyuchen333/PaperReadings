@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "DailyCommit"
             }
-          },
-          {
-            "id": "0bb9d8c26d8add5d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb9d8c26d8add5d",
+  "active": "efd353d52af97f72",
   "lastOpenFiles": [
     "DailyCommit.md",
     "IMG/Pasted image 20241107105024.png",

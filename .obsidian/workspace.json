@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "841ba17c2f0a0519",
+        "id": "370e96d51e652a67",
         "type": "tabs",
         "children": [
           {
-            "id": "efd353d52af97f72",
+            "id": "48840a518ce28e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efd353d52af97f72",
+  "active": "48840a518ce28e8d",
   "lastOpenFiles": [
     "DailyCommit.md",
     "IMG/Pasted image 20241107105024.png",
